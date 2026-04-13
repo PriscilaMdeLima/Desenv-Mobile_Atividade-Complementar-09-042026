@@ -3,3 +3,4 @@ export const globalStyles = {
   backgroundColor: '#ffffff',
   bodyFontSize: 16,
 };
+
